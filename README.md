@@ -15,7 +15,7 @@ A quantitative cybersecurity risk framework designed to evaluate asset vulnerabi
 ### 🔐 2. Enterprise Workforce Governance Model (SQL Relational Asset)
 A secure human resources database architecture implementing database security controls, Identity & Access Management (IAM) baselines, and data-integrity principles to audit structural privilege creep.
 * **Core Competencies:** Relational Database Design, Identity & Access Management (IAM), Compliance Auditing, Advanced SQL (CTEs / Window Functions)
-* 📁 [View Project Repository](https://github.com)
+* 📁 [View Project Repository](https://github.com/spardman/spardman.github.io)
 
 ---
 
