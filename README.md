@@ -10,7 +10,7 @@ Welcome to my professional technical portfolio. I bridge the gap between enterpr
 A quantitative cybersecurity risk framework designed to evaluate asset vulnerabilities, simulate annualized loss expectancies (ALE), and prioritize remediation roadmaps according to corporate risk tolerance thresholds.
 * **Core Competencies:** Quantitative Analysis, Threat Modeling, Risk Quantification, Python
 * 📁 [View Project Repository](https://github.com)
-* 🌐 [Launch Interactive Landing Page](https://github.io)
+* 🌐 [Launch Interactive Landing Page](https://spardman.github.io/enterprise-grc-risk-model/)
 
 ### 🔐 2. Enterprise Workforce Governance Model (SQL Relational Asset)
 A secure human resources database architecture implementing database security controls, Identity & Access Management (IAM) baselines, and data-integrity principles to audit structural privilege creep.
