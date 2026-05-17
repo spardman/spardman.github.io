@@ -1,4 +1,4 @@
-# Dwan Edwards | IT Management & GRC Portfolio Hub
+# IT Management & GRC Portfolio Hub
 
 Welcome to my professional technical portfolio. I bridge the gap between enterprise business operations and robust infrastructure compliance, leveraging an **MBA in IT Management**, **Security+ ce**, and **CEH** credentials alongside 15+ years of cross-functional experience.
 
@@ -25,4 +25,4 @@ A secure human resources database architecture implementing database security co
 * **Core Focus:** GRC Baseline Implementations | NIST/ISO Compliance Frameworks | IT Support Optimization | Risk Management
 
 ---
-📬 **Connect with me:** [LinkedIn](https://linkedin.com) | [Email](mailto:tedwa54@wgu.edu)
+📬 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/dwan-edwards/) | [Email](mailto:dwaedwards@gmail.com)
